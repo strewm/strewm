@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Former medical school hopeful, turned software engineer. Happy to be here, and excited to grow.
+Former medical school hopeful, turned software engineer. Stoked to be here, and excited to grow!
 
 <!--
 **strewm/strewm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
