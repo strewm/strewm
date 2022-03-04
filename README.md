@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Savanah! 👋
 
-Pivoting from healthcare to software development. Stoked to be here, and excited to grow!
+A former medical school hopeful, currently pivoting to software development. Stoked to be here, and excited to grow! 🌱
 
 [![Savanah's github stats](https://github-readme-stats.vercel.app/api?username=strewm&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strewm&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
