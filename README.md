@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Former medical school hopeful, turned software engineer. Stoked to be here, and excited to grow!
+Pivoting from healthcare to software development. Stoked to be here, and excited to grow!
+
+![Savanah's github stats](https://github-readme-stats.vercel.app/api?username=strewm)
 
 <!--
 **strewm/strewm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
