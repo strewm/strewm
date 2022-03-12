@@ -1,8 +1,7 @@
 ### Hi there, I'm Savanah! 👋
 
 🌱 Pivoting to software development. Stoked to be here, and excited to grow!
-
-📚 Currently: Honing Python + learning abotu SVGs.
+🔭 Currently: Honing Python + learning abotu SVGs.
 
 [![Savanah's github stats](https://github-readme-stats.vercel.app/api?username=strewm&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strewm&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
