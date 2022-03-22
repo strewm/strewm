@@ -3,7 +3,7 @@
 🌱 Pivoting to software development. Stoked to be here, and excited to grow!  
 🔭 Currently: Learning about React Native + CSS animations
 
-[![Savanah's github stats](https://github-readme-stats.vercel.app/api?username=strewm&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Savanah's github stats](https://github-readme-stats.vercel.app/api?username=strewm&theme=solarized-light&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strewm&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
