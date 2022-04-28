@@ -1,4 +1,4 @@
-### Hi there, I'm Savanah! 👋
+<!-- ### Hi there, I'm Savanah! 👋 -->
 
 <!-- 🌱 Pivoting to software development. Stoked to be here, and excited to grow!  
 🔭 Currently: Learning about React Native + CSS animations
