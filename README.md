@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <!--![pxArt (1)](https://user-images.githubusercontent.com/88953247/186745896-b6dc1d03-1d7b-4915-a702-97097352e47b.png)-->
 <!--![pxArt (2)](https://user-images.githubusercontent.com/88953247/186745902-05c7bda7-65c4-4d0b-916a-534f1556dd0b.png)-->
 <!--![pxArt (3)](https://user-images.githubusercontent.com/-->
-<!-- ![Screen Shot 2022-08-25 at 1 07 20 PM](https://user-images.githubusercontent.com/88953247/186751981-b2666c71-c55a-49a9-ad66-00b70658611c.png)
- -->
 
-<!--![pxArt copy 6](https://user-images.githubusercontent.com/88953247/186753400-93d84abf-c44a-474f-9956-0b085a1160b3.png)-->
-![pxArt copy 8](https://user-images.githubusercontent.com/88953247/186754546-24bfeca9-ef57-4bb9-bad0-6d3141a0926a.png)
+
+![pixelart-redrock](https://user-images.githubusercontent.com/88953247/186755194-697d7c3a-bf5e-4d1b-a270-bc7eefba1995.png)
+![pixelart-rockies](https://user-images.githubusercontent.com/88953247/186755213-d3aa9699-deb1-4007-aee7-f3ecf546b8ec.png)
+![pixelart-winter](https://user-images.githubusercontent.com/88953247/186755224-4981f4b9-f684-42ba-afe0-4711760f23c3.png)
 
 
