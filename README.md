@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <!--![pxArt (3)](https://user-images.githubusercontent.com/-->
 <!-- ![Screen Shot 2022-08-25 at 1 07 20 PM](https://user-images.githubusercontent.com/88953247/186751981-b2666c71-c55a-49a9-ad66-00b70658611c.png)
  -->
- ![pxArt copy](https://user-images.githubusercontent.com/88953247/186752398-2f1a4fd9-8ab4-4c9a-9cd5-3fec36ad9a20.png)
 
+![pxArt copy 2](https://user-images.githubusercontent.com/88953247/186752485-fefc0de9-76d5-41ef-b995-3de01830f828.png)
 
 
 
