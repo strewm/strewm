@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <!--![pxArt (1)](https://user-images.githubusercontent.com/88953247/186745896-b6dc1d03-1d7b-4915-a702-97097352e47b.png)-->
 <!--![pxArt (2)](https://user-images.githubusercontent.com/88953247/186745902-05c7bda7-65c4-4d0b-916a-534f1556dd0b.png)-->
 <!--![pxArt (3)](https://user-images.githubusercontent.com/-->
-![Screen Shot 2022-08-25 at 1 07 20 PM](https://user-images.githubusercontent.com/88953247/186751981-b2666c71-c55a-49a9-ad66-00b70658611c.png)
+<!-- ![Screen Shot 2022-08-25 at 1 07 20 PM](https://user-images.githubusercontent.com/88953247/186751981-b2666c71-c55a-49a9-ad66-00b70658611c.png)
+ -->
+ ![pxArt copy](https://user-images.githubusercontent.com/88953247/186752398-2f1a4fd9-8ab4-4c9a-9cd5-3fec36ad9a20.png)
 
 
 
