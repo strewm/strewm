@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 
 <!--![pxArt copy 3](https://user-images.githubusercontent.com/88953247/186752803-8b556f02-5628-47c0-8e2e-d980e8e3bda2.png)-->
 ![pxArt copy 6](https://user-images.githubusercontent.com/88953247/186753400-93d84abf-c44a-474f-9956-0b085a1160b3.png)
+![pxArt copy 7](https://user-images.githubusercontent.com/88953247/186754337-8dddcabd-fd01-430c-bc8e-bc751d7895a8.png)
 
 
