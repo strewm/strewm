@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!-- ![Screen Shot 2022-08-25 at 1 07 20 PM](https://user-images.githubusercontent.com/88953247/186751981-b2666c71-c55a-49a9-ad66-00b70658611c.png)
  -->
 
-![pxArt copy 6](https://user-images.githubusercontent.com/88953247/186753400-93d84abf-c44a-474f-9956-0b085a1160b3.png)
+<!--![pxArt copy 6](https://user-images.githubusercontent.com/88953247/186753400-93d84abf-c44a-474f-9956-0b085a1160b3.png)-->
 ![pxArt copy 8](https://user-images.githubusercontent.com/88953247/186754546-24bfeca9-ef57-4bb9-bad0-6d3141a0926a.png)
 
 
