@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ![pixelart-redrock](https://user-images.githubusercontent.com/88953247/186755194-697d7c3a-bf5e-4d1b-a270-bc7eefba1995.png)
-![pixelart-rockies](https://user-images.githubusercontent.com/88953247/186755213-d3aa9699-deb1-4007-aee7-f3ecf546b8ec.png)
-![pixelart-winter](https://user-images.githubusercontent.com/88953247/186755224-4981f4b9-f684-42ba-afe0-4711760f23c3.png)
+<!--![pixelart-rockies](https://user-images.githubusercontent.com/88953247/186755213-d3aa9699-deb1-4007-aee7-f3ecf546b8ec.png)-->
+<!--![pixelart-winter](https://user-images.githubusercontent.com/88953247/186755224-4981f4b9-f684-42ba-afe0-4711760f23c3.png)-->
 
 
